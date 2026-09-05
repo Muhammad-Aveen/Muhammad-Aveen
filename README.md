@@ -28,12 +28,33 @@
 ## 🖥️ About Me
 
 ```
-> 🔭 currently working    : Part-time Technical Assistant at Asia Pacific University
-> 🌱 currently studying   : Cybersecurity
-> 🎯 focused on           : [Web App Pentesting / Red Teaming / SOC]
-> 💬 ask me about         : Cybersecurity, Networking, CTFs, and IT Troubleshooting
-> 🏁 CTF handle           : [your CTF username]
+┌──────────────────────────────────────────────────────────┐
+│  aveen@kali:~$ neofetch                                   │
+├──────────────────────────────────────────────────────────┤
+
+   ⠀⠀⠀⣠⣶⣿⣷⣦⡀⠀⠀        OS         : Muhammad Aveen (Human)
+   ⠀⢀⣾⣿⠋⠈⠙⣿⣷⡀⠀        Role       : Cybersecurity Student
+   ⠀⣾⣿⠁⠀⠀⠀⠈⣿⣷⠀        Job        : Part-time Technical Assistant
+   ⠀⣿⣿⠀⠀⣿⣿⠀⠀⣿⣿⠀                     @ Asia Pacific University
+   ⠀⢿⣿⡀⠀⠀⠀⠀⣿⡿⠀        Uptime     : Still learning, every day
+   ⠀⠈⢿⣿⣄⣀⣠⣾⡿⠁⠀        Shell      : bash / zsh
+   ⠀⠀⠀⠉⠛⠛⠉⠀⠀⠀          Focus      : Networking · Pentesting · CTFs
+
+├──────────────────────────────────────────────────────────┤
+│  > interests   : Cybersecurity, Networking, CTFs,          │
+│                  IT Troubleshooting                        │
+│  > mindset     : Break it. Understand it. Secure it.       │
+│  > status      : [ONLINE] accepting connections...         │
+└──────────────────────────────────────────────────────────┘
 ```
+
+<div align="center">
+
+![](https://img.shields.io/badge/status-hacking%20ethically-00FF41?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/mode-CTF%20grind-00FF41?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/coffee-required-00FF41?style=flat-square&labelColor=000000)
+
+</div>
 
 <br/>
 
