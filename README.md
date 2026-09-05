@@ -12,24 +12,22 @@
 
 <!-- Social badges -->
 <a href="https://www.linkedin.com/in/muhammad-aveen-b45448408/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=00FF41" />
+  <img src="https://img.shields.io/badge/-LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000" />
 </a>
 <a href="https://x.com/aveen1236" target="_blank">
-  <img src="https://img.shields.io/badge/X%20(Twitter)-00FF41?style=for-the-badge&logo=x&logoColor=000000&labelColor=00FF41" />
+  <img src="https://img.shields.io/badge/-X%20(Twitter)-00FF41?style=for-the-badge&logo=x&logoColor=000000" />
 </a>
 <a href="mailto:aveen1236@gmail.com">
-  <img src="https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=00FF41" />
+  <img src="https://img.shields.io/badge/-Email-00FF41?style=for-the-badge&logo=gmail&logoColor=000000" />
 </a>
 
 </div>
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════╗
-║   $ cat /root/about_me.txt                                 ║
-╚══════════════════════════════════════════════════════════╝
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1&pause=100000&color=00FF41&background=161B22&center=true&vCenter=true&width=280&height=45&lines=%24+cat+whoami.conf&repeat=false" />
+</div>
 
 ```
 ┌──────────────────────────────────────────────────────────┐
@@ -62,24 +60,34 @@
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════╗
-║   $ ls -la /usr/bin/arsenal                                ║
-╚══════════════════════════════════════════════════════════╝
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1&pause=100000&color=00FF41&background=161B22&center=true&vCenter=true&width=280&height=45&lines=%24+ls+-la+arsenal%2F&repeat=false" />
+</div>
+
+<br/>
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-00FF41?style=for-the-badge&logo=linux&logoColor=000000&labelColor=00FF41)
-![Kali](https://img.shields.io/badge/Kali%20Linux-00FF41?style=for-the-badge&logo=kalilinux&logoColor=000000&labelColor=00FF41)
-![Python](https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=000000&labelColor=00FF41)
-![Bash](https://img.shields.io/badge/Bash-00FF41?style=for-the-badge&logo=gnubash&logoColor=000000&labelColor=00FF41)
-![Wireshark](https://img.shields.io/badge/Wireshark-00FF41?style=for-the-badge&logo=wireshark&logoColor=000000&labelColor=00FF41)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-00FF41?style=for-the-badge&logo=burpsuite&logoColor=000000&labelColor=00FF41)
-![Metasploit](https://img.shields.io/badge/Metasploit-00FF41?style=for-the-badge&logo=metasploit&logoColor=000000&labelColor=00FF41)
-![Nmap](https://img.shields.io/badge/Nmap-00FF41?style=for-the-badge&logo=nmap&logoColor=000000&labelColor=00FF41)
-![Docker](https://img.shields.io/badge/Docker-00FF41?style=for-the-badge&logo=docker&logoColor=000000&labelColor=00FF41)
-![Git](https://img.shields.io/badge/Git-00FF41?style=for-the-badge&logo=git&logoColor=000000&labelColor=00FF41)
+<sub><b>Languages</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,js,html,css&theme=dark" />
+
+<br/><br/>
+
+<sub><b>Security & Networking</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,ssh&theme=dark" />
+<img src="https://img.shields.io/badge/-Nmap-00FF41?style=for-the-badge&logo=nmap&logoColor=000000" />
+<img src="https://img.shields.io/badge/-Wireshark-00FF41?style=for-the-badge&logo=wireshark&logoColor=000000" />
+<img src="https://img.shields.io/badge/-Burp%20Suite-00FF41?style=for-the-badge&logo=burpsuite&logoColor=000000" />
+<img src="https://img.shields.io/badge/-Metasploit-00FF41?style=for-the-badge&logo=metasploit&logoColor=000000" />
+<img src="https://img.shields.io/badge/-Kali%20Linux-00FF41?style=for-the-badge&logo=kalilinux&logoColor=000000" />
+
+<br/><br/>
+
+<sub><b>Tools & Platforms</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,ubuntu,windows&theme=dark" />
 
 </div>
 
