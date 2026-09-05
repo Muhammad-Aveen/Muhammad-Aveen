@@ -12,20 +12,24 @@
 
 <!-- Social badges -->
 <a href="https://www.linkedin.com/in/muhammad-aveen-b45448408/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=00FF41" />
 </a>
 <a href="https://x.com/aveen1236" target="_blank">
-  <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/X%20(Twitter)-00FF41?style=for-the-badge&logo=x&logoColor=000000&labelColor=00FF41" />
 </a>
 <a href="mailto:aveen1236@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=00FF41" />
 </a>
 
 </div>
 
 <br/>
 
-## 🖥️ About Me
+```
+╔══════════════════════════════════════════════════════════╗
+║   $ cat /root/about_me.txt                                 ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 ```
 ┌──────────────────────────────────────────────────────────┐
@@ -58,20 +62,24 @@
 
 <br/>
 
-## 🛠️ Tools & Tech Stack
+```
+╔══════════════════════════════════════════════════════════╗
+║   $ ls -la /usr/bin/arsenal                                ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
-![Kali](https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00FF41)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00FF41)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF41)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
+![Linux](https://img.shields.io/badge/Linux-00FF41?style=for-the-badge&logo=linux&logoColor=000000&labelColor=00FF41)
+![Kali](https://img.shields.io/badge/Kali%20Linux-00FF41?style=for-the-badge&logo=kalilinux&logoColor=000000&labelColor=00FF41)
+![Python](https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=000000&labelColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash-00FF41?style=for-the-badge&logo=gnubash&logoColor=000000&labelColor=00FF41)
+![Wireshark](https://img.shields.io/badge/Wireshark-00FF41?style=for-the-badge&logo=wireshark&logoColor=000000&labelColor=00FF41)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-00FF41?style=for-the-badge&logo=burpsuite&logoColor=000000&labelColor=00FF41)
+![Metasploit](https://img.shields.io/badge/Metasploit-00FF41?style=for-the-badge&logo=metasploit&logoColor=000000&labelColor=00FF41)
+![Nmap](https://img.shields.io/badge/Nmap-00FF41?style=for-the-badge&logo=nmap&logoColor=000000&labelColor=00FF41)
+![Docker](https://img.shields.io/badge/Docker-00FF41?style=for-the-badge&logo=docker&logoColor=000000&labelColor=00FF41)
+![Git](https://img.shields.io/badge/Git-00FF41?style=for-the-badge&logo=git&logoColor=000000&labelColor=00FF41)
 
 </div>
 
