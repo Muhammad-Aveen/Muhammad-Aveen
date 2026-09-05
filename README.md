@@ -12,13 +12,13 @@
 
 <!-- Social badges -->
 <a href="https://www.linkedin.com/in/muhammad-aveen-b45448408/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000" />
+  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
 </a>
 <a href="https://x.com/aveen1236" target="_blank">
-  <img src="https://img.shields.io/badge/-X%20(Twitter)-00FF41?style=for-the-badge&logo=x&logoColor=000000" />
+  <img src="https://img.shields.io/badge/X%20(Twitter)-161B22?style=for-the-badge&logo=x&logoColor=00FF41" />
 </a>
 <a href="mailto:aveen1236@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-00FF41?style=for-the-badge&logo=gmail&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=00FF41" />
 </a>
 
 </div>
@@ -52,9 +52,9 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/status-hacking%20ethically-00FF41?style=flat-square&labelColor=000000)
-![](https://img.shields.io/badge/mode-CTF%20grind-00FF41?style=flat-square&labelColor=000000)
-![](https://img.shields.io/badge/coffee-required-00FF41?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/status-hacking_ethically-161B22?style=flat-square&logo=hackthebox&logoColor=00FF41)
+![](https://img.shields.io/badge/mode-CTF_grind-161B22?style=flat-square&color=161B22)
+![](https://img.shields.io/badge/coffee-required-161B22?style=flat-square&logo=buymeacoffee&logoColor=00FF41)
 
 </div>
 
@@ -68,26 +68,30 @@
 
 <div align="center">
 
-<sub><b>Languages</b></sub>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=15&duration=1&pause=100000&color=00FF41&background=161B22&center=true&vCenter=true&width=180&height=32&lines=Languages&repeat=false" />
 <br/>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,powershell,js,ts,html,css,java,regex&theme=dark" />
 
 <br/><br/>
 
-<sub><b>Security & Networking</b></sub>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=15&duration=1&pause=100000&color=00FF41&background=161B22&center=true&vCenter=true&width=280&height=32&lines=Security+%26+Networking&repeat=false" />
 <br/>
-<img src="https://skillicons.dev/icons?i=linux,ssh&theme=dark" />
-<img src="https://img.shields.io/badge/-Nmap-00FF41?style=for-the-badge&logo=nmap&logoColor=000000" />
-<img src="https://img.shields.io/badge/-Wireshark-00FF41?style=for-the-badge&logo=wireshark&logoColor=000000" />
-<img src="https://img.shields.io/badge/-Burp%20Suite-00FF41?style=for-the-badge&logo=burpsuite&logoColor=000000" />
-<img src="https://img.shields.io/badge/-Metasploit-00FF41?style=for-the-badge&logo=metasploit&logoColor=000000" />
-<img src="https://img.shields.io/badge/-Kali%20Linux-00FF41?style=for-the-badge&logo=kalilinux&logoColor=000000" />
+<img src="https://img.shields.io/badge/Nmap-161B22?style=for-the-badge&logo=nmap&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Wireshark-161B22?style=for-the-badge&logo=wireshark&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Burp%20Suite-161B22?style=for-the-badge&logo=burpsuite&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Metasploit-161B22?style=for-the-badge&logo=metasploit&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Kali%20Linux-161B22?style=for-the-badge&logo=kalilinux&logoColor=00FF41" />
+<br/>
+<img src="https://img.shields.io/badge/OpenSSH-161B22?style=for-the-badge&logo=openssh&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/OWASP-161B22?style=for-the-badge&logo=owasp&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/OpenSSL-161B22?style=for-the-badge&logo=openssl&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Wazuh-161B22?style=for-the-badge&logo=wazuh&logoColor=00FF41" />
 
 <br/><br/>
 
-<sub><b>Tools & Platforms</b></sub>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=15&duration=1&pause=100000&color=00FF41&background=161B22&center=true&vCenter=true&width=230&height=32&lines=Tools+%26+Platforms&repeat=false" />
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,ubuntu,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,vscode,linux,ubuntu,windows,vim,postman,npm&theme=dark" />
 
 </div>
 
