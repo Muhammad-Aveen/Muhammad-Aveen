@@ -26,7 +26,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1&pause=100000&color=00FF41&background=161B22&center=true&vCenter=true&width=280&height=45&lines=%24+cat+whoami.conf&repeat=false" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1&pause=100000&color=00FF41&background=161B22&center=true&vCenter=true&width=280&height=45&lines=%24+Cat+whoami.&repeat=false" />
 </div>
 
 ```
