@@ -50,13 +50,6 @@
 └──────────────────────────────────────────────────────────┘
 ```
 
-<div align="center">
-
-![](https://img.shields.io/badge/status-hacking_ethically-161B22?style=flat-square&logo=hackthebox&logoColor=00FF41)
-![](https://img.shields.io/badge/mode-CTF_grind-161B22?style=flat-square&color=161B22)
-![](https://img.shields.io/badge/coffee-required-161B22?style=flat-square&logo=buymeacoffee&logoColor=00FF41)
-
-</div>
 
 <br/>
 
